@@ -1,5 +1,5 @@
 # Windows-Privilege-Escalation-Resources
-Compilation of Resources from TCM's Windows Priv Esc Course
+Compilation of Resources for Windows Priv Esc Course
 
 ### General Links 
 
